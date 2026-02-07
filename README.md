@@ -1,7 +1,7 @@
 # mintlify-clone-2
 
 website: https://mintlify-clone-2.vercel.app
-
+note : As given in the masterji assignment contraints, the website is **not responsive** , the website is designed for only desktop screen (**13 inch display**) .
 # Mintlify Landing Page Clone – README
 
 ## Overview
